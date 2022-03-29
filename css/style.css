@@ -221,8 +221,8 @@ header .follow a:hover {
 .home .image img {
   width: 100%;
   border-radius: 50%;
-  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 10%);
-  padding: 10px;
+  box-shadow: 0 3.5rem 20rem rgb(0 0 0 / 34%);
+  padding: 40px;
 }
 
 .home .content {
@@ -325,7 +325,7 @@ header .follow a:hover {
   justify-content: space-between;
   padding: 0.7rem 0;
   font-size: 1.7rem;
-  color: #111;
+  color: var(--text-black-900);
   font-weight: 400;
 }
 

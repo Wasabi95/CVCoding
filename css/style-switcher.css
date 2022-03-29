@@ -39,39 +39,7 @@
 .style-switcher .day-night {
   top: 55px;
 }
+
 .style-switcher .style-switcher-toggler {
   top: 0;
-}
-
-.style-switcher h4 {
-  margin: 0 0 10px;
-  color: black;
-  font-size: 16px;
-  font-weight: 600;
-  text-transform: capitalize;
-}
-
-.style-switcher .colors span {
-  display: inline-block;
-  height: 30px;
-  width: 30px;
-  border-radius: 50%;
-}
-.style-switcher .colors {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.style-switcher .color-1 {
-  background: #ec1845;
-}
-.style-switcher .color-2 {
-  background: #bedf73;
-}
-.style-switcher .color-3 {
-  background: #24b137;
-}
-.style-switcher .color-4 {
-  background: #361a9c;
 }
